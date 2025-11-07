@@ -64,7 +64,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToContacts }) => {
             <div className="relative w-80 h-80 md:w-96 md:h-96">
               <div className="absolute inset-0 bg-gradient-to-br from-indigo-600 to-purple-600 rounded-full transform -rotate-12"></div>
               <img 
-                src="components/access/Me.png" 
+                src="./access/Me.png" 
                 alt="Ifeanyi David Ebere Ezechukwukere" 
                 className="relative w-full h-full object-cover rounded-full shadow-2xl border-4 border-gray-800"
               />
