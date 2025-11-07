@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { SocialIcon } from './Icons';
-import profileImage from '.assets/Me.png';
+import profileImage from './assets/Me.png';
 
 interface HeroProps {
   scrollToContacts: () => void;
