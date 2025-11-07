@@ -30,13 +30,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      # - name: Set up Node.js
+      #   uses: actions/setup-node@v4
+      #   with:
+      #     node-version: 18
+      #     cache: 'npm'
+      # - name: Install dependencies
+      #   run: npm ci
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: 'npm'
+          # We remove the 'cache: npm' line which was causing the error
       - name: Install dependencies
-        run: npm ci
+        run: npm install # We change 'npm ci' to 'npm install'
       - name: Build
         # Make sure this matches the build script in your package.json!
         run: npm run build
