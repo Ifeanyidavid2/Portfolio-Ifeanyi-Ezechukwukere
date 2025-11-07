@@ -49,7 +49,7 @@ const educationData = [
     {
         degree: 'Cybersecurity Analytics Certification',
         institution: '10Alytics',
-        year: 'Ongoing',
+        year: '2025',
         description: 'Specialized training in cybersecurity principles, tools, and techniques for identifying, analyzing, and mitigating security threats.',
     },
 ];
