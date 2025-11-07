@@ -4,37 +4,37 @@ const portfolioItems = [
   {
     title: 'OSINT Threat Intelligence Project',
     category: 'Cybersecurity',
-    imageUrl: 'https://picsum.photos/seed/osint-threat-intel/600/400',
+    imageUrl: 'https://drive.google.com/file/d/1aU0W6ZjHWvUQWT3KWstlFg1L3cP1rLPY/view',
     url: 'https://drive.google.com/file/d/1J27nE9Uaiooal-vgIzx97X30rdFpBVyK/view?usp=drive_link',
   },
   {
     title: 'SOC Analysis Capstone Project',
     category: 'Cybersecurity',
-    imageUrl: 'https://picsum.photos/seed/soc-capstone/600/400',
+    imageUrl: 'https://drive.google.com/file/d/1uFMuhmLs2cHAl7700WY5MFHqfPgHv7aR/view',
     url: 'https://drive.google.com/file/d/1f5PUKKO5309twiGPyx7MT-lj8IRfcyhu/view?usp=drive_link',
   },
   {
     title: 'Enhancing SOHO Network Security',
     category: 'Networking',
-    imageUrl: 'https://picsum.photos/seed/soho/600/400',
+    imageUrl: 'https://drive.google.com/file/d/11c2m9OsZszkFw8wWqT_Zc0ztTcyPbKCw/view',
     url: 'https://drive.google.com/file/d/1mm7-E4gvBiSG9pK3BfOagyvlelpxgYNk/view?usp=sharing',
   },
   {
     title: 'SOHO Networking Security Analysis Report - SolTech Ltd',
     category: 'Networking',
-    imageUrl: 'https://picsum.photos/seed/funhq-v2/600/400',
+    imageUrl: 'https://drive.google.com/file/d/1UjapJNQQ9s4T73CuMu7veBm7SirhMR2Q/view',
     url: 'https://drive.google.com/file/d/1590gfc5ovRqUxn2BcuHU63ysYKvIsFtb/view?usp=drive_link',
   },
   {
     title: 'Internal Penetration Test Report - Nova Ltd',
     category: 'Cybersecurity',
-    imageUrl: 'https://picsum.photos/seed/cebc-v2/600/400',
+    imageUrl: 'https://drive.google.com/file/d/1H_-IqItWcXAC2xoFIxO0MhTO99BXRb-a/view',
     url: 'https://drive.google.com/file/d/1AdtfBVGstJhtPX3PKZpYro9gUNGChuCv/view?usp=drive_link',
   },
   {
     title: 'GRC Capstone Project - Noventa Technologies Ltd',
     category: 'Cybersecurity',
-    imageUrl: 'https://picsum.photos/seed/frh-v2/600/400',
+    imageUrl: 'https://drive.google.com/file/d/1wXc4j0go5GtY7bLy-vIObP0BX170vC4H/view',
     url: 'https://drive.google.com/file/d/1ZOAmwaDKReHbcTb8vZWMhY6m9nw4IyTA/view?usp=drive_link',
   },
 ];
