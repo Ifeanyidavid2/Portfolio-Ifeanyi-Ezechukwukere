@@ -51,7 +51,7 @@ const educationData = [
         institution: '10Alytics',
         year: '2025',
         description: 'Specialized training in cybersecurity principles, tools, and techniques for identifying, analyzing, and mitigating security threats.',
-        imageUrl: 'https://lh3.googleusercontent.com/d/xxxiaihh4r2p#attid%253Datt_19a555b16a7db820_0.1_f_mhmcravu1',
+        imageUrl: 'https://mail.google.com/mail/u/0/popout?ver=xxxiaihh4r2p#attid%253Datt_19a555b16a7db820_0.1_f_mhmcravu1',
     },
 ];
 
