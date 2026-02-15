@@ -37,6 +37,18 @@ const portfolioItems = [
     imageUrl: 'https://lh3.googleusercontent.com/d/1wXc4j0go5GtY7bLy-vIObP0BX170vC4H',
     url: 'https://drive.google.com/file/d/1ZOAmwaDKReHbcTb8vZWMhY6m9nw4IyTA/view?usp=drive_link',
   },
+   {
+    title: 'Ethical Hacking Intern - Professional-OSINT-Findings-Report',
+    category: 'Cybersecurity - PenTesting',
+    imageUrl: 'https://lh3.googleusercontent.com/d/1AKIpyxfIoeMZdVFIpFMfjCsUaImuUNUf',
+    url: 'https://drive.google.com/file/d/1OYaf9KfyTfX5eCAv5zmNST6larPqMyts/view?usp=drive_link',
+  },
+   {
+    title: 'Ethical Hacking Intern - Reconnaissance Report',
+    category: 'Cybersecurity - PenTesting',
+    imageUrl: 'https://lh3.googleusercontent.com/d/1VjYw2iaaszPeDn9oJvtE6Ym9i4rOkEgr',
+    url: 'https://drive.google.com/file/d/1k2NJ6W3RwUUSOiU4Bsfikceare7qV1YJ/view?usp=drive_link',
+  },
 ];
 
 const PortfolioItem: React.FC<{ title: string; category: string; imageUrl: string; url: string }> = ({ title, category, imageUrl, url }) => (
